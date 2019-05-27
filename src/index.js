@@ -1,6 +1,3 @@
-import React from '../node_modules/react';
-import ReactDOM from '../node_modules/react-dom';
-import {Provider} from 'react-redux';
 import store from './store';
 
 import { addItem, updateItem, deleteItem } from './actions';
